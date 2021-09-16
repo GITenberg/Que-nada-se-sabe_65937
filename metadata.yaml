@@ -1,0 +1,44 @@
+_repo: Que-nada-se-sabe_65937
+_version: 0.0.1
+alternative_title: Quod nihil scitur. Spanish
+contributor:
+  commentator:
+    agent_name: Menéndez y Pelayo, Marcelino
+    aliases:
+    - Pelayo, Marcelino Menéndez y
+    - Pelayo, Marcelino Menendez y
+    birthdate: 1856
+    deathdate: 1912
+    gutenberg_agent_id: '47265'
+    url: http://www.gutenberg.org/2009/agents/47265
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Marcelino_Men%C3%A9ndez_Pelayo
+    - https://en.wikipedia.org/wiki/Marcelino_Men%C3%A9ndez_y_Pelayo
+creator:
+  author:
+    agent_name: Sánchez, Francisco
+    aliases:
+    - Sánches, Francisco
+    - Sanchez, Francisco
+    - Sanches, Francisco
+    - Sánchez, el Escéptico, F. (Francisco)
+    - Sanchez, el Esceptico, F. (Francisco)
+    gutenberg_agent_id: '53557'
+    url: http://www.gutenberg.org/2009/agents/53557
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Francisco_S%C3%A1nchez_el_Esc%C3%A9ptico
+    - https://en.wikipedia.org/wiki/Francisco_Sanches
+description: ''
+gutenberg_issued: '2021-07-28'
+identifiers:
+  gutenberg: '65937'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Skepticism -- Early works to 1800'
+- GITenberg
+title: Que nada se sabe
+url: http://www.gutenberg.org/ebooks/65937
