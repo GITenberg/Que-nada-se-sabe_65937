@@ -14,6 +14,9 @@ contributor:
     wikipedia:
     - https://es.wikipedia.org/wiki/Marcelino_Men%C3%A9ndez_Pelayo
     - https://en.wikipedia.org/wiki/Marcelino_Men%C3%A9ndez_y_Pelayo
+covers:
+- cover_type: archival
+  image_path: 65937-h/images/cover.jpg
 creator:
   author:
     agent_name: Sánchez, Francisco
@@ -29,6 +32,8 @@ creator:
     - https://es.wikipedia.org/wiki/Francisco_S%C3%A1nchez_el_Esc%C3%A9ptico
     - https://en.wikipedia.org/wiki/Francisco_Sanches
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65937#Que-nada-se-sabe
 gutenberg_issued: '2021-07-28'
 identifiers:
   gutenberg: '65937'
